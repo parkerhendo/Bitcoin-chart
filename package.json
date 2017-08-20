@@ -1,0 +1,32 @@
+{
+  "name": "react-vx-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vx/axis": "0.0.136",
+    "@vx/event": "0.0.136",
+    "@vx/gradient": "0.0.136",
+    "@vx/group": "0.0.136",
+    "@vx/mock-data": "0.0.136",
+    "@vx/pattern": "0.0.136",
+    "@vx/responsive": "0.0.136",
+    "@vx/scale": "0.0.136",
+    "@vx/shape": "0.0.136",
+    "@vx/tooltip": "0.0.137",
+    "d3-array": "^1.2.0",
+    "d3-format": "^1.2.0",
+    "d3-time-format": "^2.0.5",
+    "next": "^3.0.6",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
